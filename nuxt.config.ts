@@ -136,7 +136,7 @@ const config: Configuration = {
   },
   manifest: {
     name: '（非公式）福島県 新型コロナウイルス感染症情報サイト',
-    theme_color: '#00a040',
+    theme_color: '#22B573',
     background_color: '#ffffff',
     display: 'standalone',
     Scope: '/',
